@@ -12,7 +12,7 @@
 <meta charset="ISO-8859-1">
 <title>Index Page</title>
 </head>
-<body style="background: url('https://wallpaperaccess.com/full/172079.jpg');background-size: cover;background-position: center">
+<body style="background: url('https://wallpaperaccess.com/full/172079.jpg');background-size: cover;background-position: center;background-repeat: no-repeat;">
 <div align="center">
 <h1 style="color: #18aab8">Just for Fun</h1>
 <table>
